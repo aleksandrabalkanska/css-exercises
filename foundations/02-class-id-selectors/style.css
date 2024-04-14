@@ -1,0 +1,17 @@
+.first {
+    background-color: pink;
+    font-family: Veranda, "DejaVu Sans", sans-serif;
+}
+#second {
+    color: blue;
+    font-size: 30px;
+}
+
+.font-size {
+    font-size:24px
+}
+
+#fourth {
+    background-color: hsl(120, 73%, 75%);
+    font-weight: bold;
+}
